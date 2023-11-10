@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="flex flex-row items-center justify-center space-x-1 text-neutral-500">
           KVK nummer: 91895693
         </div>
-        <div className="flex flex-row items-center justify-center space-x-2 mb-1">
+        <div className="flex flex-row items-center justify-center space-x-2 mb-2">
           <div className="flex flex-row items-center justify-center space-x-1 text-neutral-500">
             Contact
           </div>
