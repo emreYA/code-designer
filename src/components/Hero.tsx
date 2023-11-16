@@ -25,10 +25,10 @@ const Hero = () => {
     <main className="mx-auto max-w-3xl px-4 sm:px-6 md:max-w-5xl">
       <section>
         <div className="flex flex-col text-center items-center justify-center p-8 sm:py-16 md:py-32 md:flex-row md:space-x-4 md:text-left bg-white rounded-3xl">
-          <div className="md:mt-2 md:w-1/2">
+          <div className="md:mt-2 md:w-1/3">
             <Image
               className="rounded-full"
-              src="/me.jpg"
+              src="/ik01.png"
               alt=""
               width={300}
               height={300}
