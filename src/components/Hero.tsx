@@ -7,7 +7,6 @@ const Hero = () => {
     const currentTime = new Date().getHours();
 
     let greeting;
-
     if (currentTime >= 5 && currentTime < 12) {
       greeting = "Goedemorgen";
     } else if (currentTime >= 12 && currentTime < 18) {

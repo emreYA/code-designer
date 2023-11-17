@@ -12,13 +12,6 @@ const projects = [
     link: "https://play.google.com/store/apps/details?id=com.emrey.RapNotes&hl=nl&gl=US",
   },
   {
-    name: "Autorijschool Akkas",
-    description:
-      "Plan vandaag nog een gratis proefles in en omarm het plezier van autorijden!",
-    image: "/autorijschoolakkas.jpg",
-    link: "https://www.autorijschoolakkas.nl/",
-  },
-  {
     name: "La Fiore",
     description:
       "Bij La Fiore bent u op het juiste adres voor de lekkerste hartige en zoete broodjes.",
