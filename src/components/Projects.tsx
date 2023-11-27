@@ -5,18 +5,18 @@ import { BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
+    name: "Footy Players API",
+    description:
+      "the premier source for comprehensive football player data from the top 5 European competitions and a selection of iconic players from the past.",
+    image: "/footy-players.jpg",
+    link: "https://www.footyplayers.eu/",
+  },
+  {
     name: "Rap Notes",
     description:
       "Introductie van de ultieme notitie-app voor rappers, nu met een krachtige rijmfunctie die je schrijven naar een hoger niveau tilt!",
     image: "/rap-notes.jpg",
     link: "https://play.google.com/store/apps/details?id=com.emrey.RapNotes&hl=nl&gl=US",
-  },
-  {
-    name: "La Fiore",
-    description:
-      "Bij La Fiore bent u op het juiste adres voor de lekkerste hartige en zoete broodjes.",
-    image: "/la fiore.jpg",
-    link: "https://www.la-fiore.nl/",
   },
 ];
 
